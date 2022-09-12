@@ -11,8 +11,6 @@ import java.util.Properties;
  *     <li><code>app.properties</code> is located in the <code>/src</code> directory.</li>
  * </ul>
  *
- * @author Sarvar Nishonboyev &lt;sarvar.nishonboyev@gmail.com&gt;
- *
  */
 public class AppProperties {
 
